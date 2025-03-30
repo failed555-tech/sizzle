@@ -1,0 +1,2 @@
+1.0.0
+https://github.com/failed555-tech/sizzle/releases/latest/download/SizzlesUtilities.exe
